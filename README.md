@@ -1,8 +1,8 @@
 # Projeto-da-disciplina-aed1
 Gerenciamento de Aeroporto
 
-/*
 ChangeLOG:
+
 -------------12/06: ---------------------
 -Adicionada função para ler quantidade de strings de um arquivo (contastrings)
 -Matriz de Poltronas feita (poltronasvazias)
@@ -15,4 +15,4 @@ Faltando:
 - Mudança de fluxo na leitura do menu principal
 ----------------------------------------------
 
- */
+ 
